@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "TO GET THE BEST OUT OF SALESPEOPLE, GIVE THEM AN INCUBATION PERIOD"
+subtitle:   ""
+date:       2014-08-28
+author:     "John Kageche"
+---
+
+<p>“But they have just come from a training; why aren’t they performing?” A common lamentation among managers in an organization, upset as to why the newly trained, highly charged, novice salesman isn’t closing business. Selling is much akin to riding a bike. You can draw diagrams explaining the physics behind riding it, but it’s all for naught if you don’t get onto it, wobble a few times, be laughed at many more and fall even more times until finally, breakthrough.   In selling, this is the incubation period- learning on the job, understudying the more experienced salesperson.  In the incubation period what was learnt in class is put into practice. Naturally, prolonged disuse of the skill runs the risk of atrophy, the remedy for which is starting a fresh but wobbling much less, only this time, you most probably won’t need someone to understudy.</p>
+<p>Ensuring a successful period of incubation is largely the domain of the sales manager. For reasons of feeling inadequate or intimidated, few green horns will have the nerve to approach a sales superstar asking to understudy them. On the other hand, not many sales superstars want someone to understudy them; the sales person is a lone ranger and as such having grown accustomed to a working formula that has gotten him to sales stardom, he views this mentee as a drag; something that will force him to adjust his winning formula and thus slow him down. Therefore, he will most probably frustrate the new seed  than see to it that it germinate. The sales manager bridges this gap between the beginner and the “finisher”. He knows his team best and knows who would make a good mentor and whom not. More often than not the wise sales manager assigns this mentorship position to the performing salesperson that shows ability at supervision or, more probably, propensity to coach, rather than just the best performer. </p>
+<p>During the incubation period the novice sees that star in action; the star on the other hand occasionally throws him into the deep end knowing, and accepting, that as part of learning he will let an obvious sale go. That’s hard to do but necessary if the fresher is to learn. It can only be achieved by one willing to teach; the typical sales success will be too pained to see the sale get lost, will thus close it, and in the process lose an invaluable teaching aid that will only serve to lengthen the learner’s learning curve. Interestingly, the competent mentor is known to close his own sale and give it out to the fresher just so that he can boost the latter’s impetus to learn. Only one willing to see another grow and flourish can do this.</p>
+<p>For a successful incubation the recruit has a big part to play. He must be willing to learn. Knowing that sales is a game of numbers he must wobble and fall as may times as is humanly possible every day, knowing that there’s a soft cushion of encouragement to land on with every fall and accepting it’s a temporary shelter in a storm and not a permanent roof over his head. The more attempts he makes at becoming better, and the faster he does so, the higher the chances of “riding his new found bike” into the sunset and in the process encouraging his mentor to teach him more. </p>
+<p>Before condemning the new recruit’s performance, organizations are best advised to embrace and encourage incubation, as it stretches their training shilling and greatly increases the chances of retention as opposed to loss owing to the novice salesperson getting frustrated by the trials and tribulations he will most certainly encounter in the field.</p>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'lendmeyourears';
+    var disqus_identifier = '2014-08-28';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<script type="text/javascript"><!--
+//<![CDATA[
+	twatchData = 'page='+encodeURIComponent( window.location );
+	if( typeof document.referrer != 'undefined' && document.referrer != '' ) {
+		twatchData += '&ref='+encodeURIComponent( document.referrer );
+	}
+	twatchData += '&no_cookies=true';
+	if( typeof screen.width != 'undefined' ) {
+		twatchData += '&resolution='+screen.width+'x'+screen.height;
+	}
+	document.write('<scr'+'ipt type="text/javascript" '+
+	'src="http://www.lendmeyourears.co.ke/twatch/remote/js_logger.php?'+twatchData+'">'+
+	'</scr'+'ipt>');
+//]]>
+//--></script>

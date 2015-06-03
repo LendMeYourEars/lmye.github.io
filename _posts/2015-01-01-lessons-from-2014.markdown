@@ -1,0 +1,60 @@
+---
+layout:     post
+title:      "Lessons from 2014 that will help you sell better in 2015"
+subtitle:   "In keeping with the New Year cheer here are the highlights of the Sales Pitch 2014 year"
+date:       2015-01-01
+author:     "John Kageche"
+---
+
+<p>Spain’s poor performance in the World Cup taught us one thing about sales: being number one is easy; staying there, not so. Product superiority is not sales superiority. Selling is an art (emotion); a demo is a science (logic)-the demo alone may trigger the interest but won’t seal the deal. Variety spices life; too much of it chars life. Successful sellers thus limit the options available to the buyer in like manner to the waiter asking, “Do you prefer red or white meat?”</p>
+
+<p>The customer is rarely right and following through with what he has presented as a symptom (not the root problem) may work against you when your product doesn’t solve his problem (which he didn’t tell you as didn’t know). This calls for the seller to move away from solving problems (selling a drill) to identifying them (knowing why I want the drill). Because customers are rarely right (but remain king) it’s the seller’s role to educate them as part of closing the sale. Showing them that a shock is not just a shock and how it can save your life, opens a new world of connection with the buyer.</p>
+
+<p>Customers want how it can be done, not why it cannot. Customer facing staff with a solution-orientation sleep better at night and thrive in their roles than the bad workman who quarrels with his work tools. This is because selling is giving a service and the seller who embraces this connects with the buyer. </p>
+
+<p>The typical pyramidal structure for an organization was designed for the desk job, which selling is not. Organisations that insist on profiling the salesperson within the pyramid do so to their detriment-they lose the salesperson or chop him off at the knees.</p>
+
+<p>To thrive in selling the 100m shilling holiday home or 1.2 million Brioni suit, first get out of your way.  Insisting that the buyer should put the money to better use, is being self righteous-after all, your house help also thinks you should put your money to better use than buying a 20,000shilling wedding dress on impulse for instance. There will always be greater and lesser persons than yourself (Desiderata)</p>
+
+<p>Rushing to the demo or sending a quotation puts you in the same league as Tom, Dick and Harry. You get commoditised and only serve to arm the seller with sufficient ammunition to spar with vendors (you included) to bring down your prices. Instead, seek first to understand and give a service-many times price falls away at this point. </p>
+
+<p>To get more salespeople in leadership positions, salespeople must expand their knowledge base considerably and become generalist, away from the specialist nature that sees them thrive in selling.</p>
+
+<p>You can learn from everyone. Even “Prophet” Kanyari showed what passion, preparation, target marketing and confidence can achieve.</p>
+
+<p>Overcome the split second tension and ask for the cheque. Close.</p>
+
+<p>And finally, this is the text my newspaper vendor sent me to end his year; I found it so befitting I ended my year with it (brackets mine):<blockquote>Dear Customer (Reader), Boniface (Kageche) and his family wish you a happy X-mas celebration. Thank you for being my customer (reader). Merry Christmas and a Happy 2015</blockquote></p>
+
+<p>How did you end your year?</p>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'lendmeyourears';
+    var disqus_identifier = '2015-01-01';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<script type="text/javascript"><!--
+//<![CDATA[
+	twatchData = 'page='+encodeURIComponent( window.location );
+	if( typeof document.referrer != 'undefined' && document.referrer != '' ) {
+		twatchData += '&ref='+encodeURIComponent( document.referrer );
+	}
+	twatchData += '&no_cookies=true';
+	if( typeof screen.width != 'undefined' ) {
+		twatchData += '&resolution='+screen.width+'x'+screen.height;
+	}
+	document.write('<scr'+'ipt type="text/javascript" '+
+	'src="http://www.lendmeyourears.co.ke/twatch/remote/js_logger.php?'+twatchData+'">'+
+	'</scr'+'ipt>');
+//]]>
+//--></script>
